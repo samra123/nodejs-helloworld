@@ -16,4 +16,4 @@
                server.listen(7000, "localhost");
 //
 //               // Put a friendly message on the terminal
-/               console.log("TCP server listening on port 7000 at localhost.");
+               console.log("TCP server listening on port 7000 at localhost.");
